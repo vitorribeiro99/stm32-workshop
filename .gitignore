@@ -5,6 +5,8 @@
 *.uvgui
 *.uvgui.*
 *.uvguix.*
+*.uvoptx*
+*.uvprojx*
 
 # Listing files
 *.cod
