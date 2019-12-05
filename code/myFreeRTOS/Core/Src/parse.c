@@ -9,8 +9,6 @@ typedef struct cmd{
 	arg_t field[5];
 }cmd_t;
 
-extern TaskHandle_t xHandleExecCmd;
-
 cmd_t mCmd;
 
 QueueHandle_t xCmdIN;
