@@ -80,3 +80,7 @@ This work is being developed by a team over the past few years now, all having s
 - Daniel Gomes @danielgomescames
 - Tiago Aston @OBCrispy
 - João Azevedo @J-Azevedo
+- Hugo Carvalho @Hugo_dCarvalho
+- José Mendes @josepr.mendes 
+- Vitor Ribeiro @vitorribeiro99
+- João Borges @jmmb13 
