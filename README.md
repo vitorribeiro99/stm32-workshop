@@ -26,10 +26,10 @@ The topics taught in the course are:
 
 - Create a project
 - HAL API
-- Debug on-chip
 - GPIO
-- UART
 - Interrupts and NVIC
+- Debug on-chip
+- UART
 - Clocks and Clock Tree
 - Timers
 - ADC
