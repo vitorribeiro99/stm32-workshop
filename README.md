@@ -75,7 +75,7 @@ This work is being developed by a team over the past few years now, all having s
 
 ### Videos Contributions
 
-- Álvaro Castro Leite @alvarocl
+- Álvaro Castro Leite @alvarocleite
 - Vitor Ribeiro @vitorribeiro99
 - Sofia Paiva @sofiapaiva
 - João Borges @jmmb13 
