@@ -82,4 +82,4 @@ This work is being developed by a team over the past few years now, all having s
 
 ## Licensing
 
-This project is released under the BSD-3-Clause License. Please read the license.txt document. 
+This project is released under the BSD-3-Clause License. Please read the license.txt file. 
